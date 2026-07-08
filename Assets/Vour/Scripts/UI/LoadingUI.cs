@@ -31,7 +31,7 @@ namespace CrizGames.Vour
             {
                 for (int i = 0; i <= 3; i++)
                 {
-                    loadingText.text = baseText + new string('.', i);
+                    loadingText.text = "";
                     yield return new WaitForSeconds(0.5f);
                 }
             }

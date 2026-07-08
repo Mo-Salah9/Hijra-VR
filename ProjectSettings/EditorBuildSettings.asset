@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/hijra S1.unity
+    guid: c0abe92a4ef4ebc4a8e248053ad00c8e
+  - enabled: 1
     path: Assets/hijra scene.unity
     guid: ce8a8d550169f7146a89b42fad9cb3b7
   m_configObjects:
