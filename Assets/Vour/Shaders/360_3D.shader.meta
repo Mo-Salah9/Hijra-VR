@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f0c2fd65adb616546b3d83924e92859a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Shaders/360_3D.shader
+  uploadId: 780841

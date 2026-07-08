@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f98317a267baca40a283e84dc7ce027
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/CrizGames.Vour.asmdef
+  uploadId: 780841

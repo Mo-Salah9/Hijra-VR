@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ded21d25a1d4a34eb57fc68a6c98c97
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Sample/SampleAssets/Red Teleport Point.prefab
+  uploadId: 780841

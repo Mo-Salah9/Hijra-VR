@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eabce4695e96ab44da7ce40d3add4d59
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Other/Gaze Reticle.prefab
+  uploadId: 780841

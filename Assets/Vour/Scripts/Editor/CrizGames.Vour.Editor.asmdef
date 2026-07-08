@@ -1,0 +1,78 @@
+{
+    "name": "CrizGames.Vour.Editor",
+    "rootNamespace": "CrizGames.Vour.Editor",
+    "references": [
+        "GUID:4f98317a267baca40a283e84dc7ce027",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:a42927d1d4a3b4cda9b076a7adecb9cc",
+        "GUID:dc960734dc080426fa6612f1c5fe95f3",
+        "GUID:4ddd23ea56a3a40f0aa0036d1624a53e",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:f9fe0089ec81f4079af78eb2287a6163",
+        "GUID:4847341ff46394e83bb78fbd0652937e",
+        "GUID:96aa6ba065960476598f8f643e7252b6",
+        "GUID:95054a9710b0f114a85f6ced6b7f891c",
+        "GUID:ce522b6ed64c8be4c989a1d26d0e3275"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "FFMpegCore.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.xr",
+            "expression": "0.0",
+            "define": "VOUR_XR"
+        },
+        {
+            "name": "com.unity.xr.core-utils",
+            "expression": "0.0",
+            "define": "VOUR_SETTINGS"
+        },
+        {
+            "name": "com.unity.xr.management",
+            "expression": "0.0",
+            "define": "VOUR_XRPLUGINMANAGEMENT"
+        },
+        {
+            "name": "com.de-panther.webxr",
+            "expression": "0.0",
+            "define": "VOUR_WEBXR"
+        },
+        {
+            "name": "com.de-panther.webxr-input-profiles-loader",
+            "expression": "0.0",
+            "define": "WEBXR_INPUT_PROFILES"
+        },
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "0.0",
+            "define": "VOUR_XRI"
+        },
+        {
+            "name": "com.unity.xr.openxr",
+            "expression": "0.0",
+            "define": "VOUR_OPENXR"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "0.0",
+            "define": "VOUR_URP"
+        },
+        {
+            "name": "com.crizgames.ffmpegcore",
+            "expression": "0.0",
+            "define": "VOUR_FFMPEG"
+        }
+    ],
+    "noEngineReferences": false
+}

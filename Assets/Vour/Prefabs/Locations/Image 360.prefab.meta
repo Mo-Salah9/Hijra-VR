@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e4b2d98ea9221844a5215d984265559
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Locations/Image 360.prefab
+  uploadId: 780841

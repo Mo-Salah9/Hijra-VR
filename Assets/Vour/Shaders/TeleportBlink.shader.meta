@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4b6fa46653fe61647807168457c6eee7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Shaders/TeleportBlink.shader
+  uploadId: 780841

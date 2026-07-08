@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d64729e7d69da64592543bf6383aee7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Sample/DemoTour_3DScene.unity
+  uploadId: 780841

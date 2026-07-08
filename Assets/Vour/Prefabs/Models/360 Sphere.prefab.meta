@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59f59951eff2fec4c956d8e26e1f8fa4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Models/360 Sphere.prefab
+  uploadId: 780841

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff3378fd4e629c84e816e36a313e854e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Textures/Icons/Notice.txt
+  uploadId: 780841

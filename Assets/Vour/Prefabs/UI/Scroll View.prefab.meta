@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9f38c93e68ff9d44a0e1b438993cc1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/UI/Scroll View.prefab
+  uploadId: 780841

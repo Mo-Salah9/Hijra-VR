@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 016145285f0c9d743b2931c2f4faa4b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/Player/VRPlayer.cs
+  uploadId: 780841

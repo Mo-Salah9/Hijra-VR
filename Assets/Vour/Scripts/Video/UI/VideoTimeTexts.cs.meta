@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b93b95c7526fab48866a91aeac6902f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/Video/UI/VideoTimeTexts.cs
+  uploadId: 780841

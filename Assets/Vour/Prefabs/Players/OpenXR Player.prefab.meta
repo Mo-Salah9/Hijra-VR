@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c07db45895917c146b01e82502a29f24
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Players/OpenXR Player.prefab
+  uploadId: 780841

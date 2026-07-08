@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3c0dc556b170bb43953f32a9a2ae22f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Sample/SampleAssets/GrayMat.mat
+  uploadId: 780841

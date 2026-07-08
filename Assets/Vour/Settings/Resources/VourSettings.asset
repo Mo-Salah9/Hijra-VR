@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecd16fb6070d80b4392dbe50e4196e82, type: 3}
+  m_Name: VourSettings
+  m_EditorClassIdentifier: 
+  defaultTeleportPoint: {fileID: 2130735542383087208, guid: ad53c1e047a2fb745b1c315289eb7d49,
+    type: 3}
+  defaultInfoPoint: {fileID: 5178028440713458544, guid: 7dafc81a520f68849a3cb56f5f635d5f,
+    type: 3}
+  defaultInfoPanel: {fileID: 9061853563616342703, guid: 2e3434d7d68077c4d9ecbd3ed9d00188,
+    type: 3}
+  defaultVideoPoint: {fileID: 6451590230130569990, guid: 10cd6972678c47d49841c65f2680fd00,
+    type: 3}
+  defaultVideoPanel: {fileID: 688982950410407470, guid: 5fbf543062aa4ed4aaec060ff2e1362c,
+    type: 3}
+  infoPanelTextOnly: {fileID: 1724887376889425435, guid: 0f27cf2ce8523ad4f9fbf7722e26244c,
+    type: 3}
+  infoPanelLeftImage: {fileID: 7460483923755435849, guid: 2a141d4b72a7252478b38f1e73527526,
+    type: 3}
+  infoPanelRightImage: {fileID: 525430802005350207, guid: f9fcbe4d3a15f824ba332be9e3cfbba2,
+    type: 3}
+  locationManagerPrefab: {fileID: 8971393780095226610, guid: 7d0ecf3abac002c45a571cc1f22c1a02,
+    type: 3}
+  playerPrefab: {fileID: 3822308669129106016, guid: 1b9936e2a4ef4f24b8ad3e546d59b479,
+    type: 3}
+  locationPrefab: {fileID: 1893248479425480822, guid: 11eded50330b40e41b58daa881732394,
+    type: 3}
+  enableVideoPreloading: 1
+  defaultLoadingText: Loading
+  enableVideoPreview: 1

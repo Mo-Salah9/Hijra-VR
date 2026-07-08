@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98d175c2685b172488938912b4cdd4c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 20000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Settings/VourShaderCollection.shadervariants
+  uploadId: 780841

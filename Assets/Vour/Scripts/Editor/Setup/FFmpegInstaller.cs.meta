@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 20a7fc276be846a8b571d37f0203cb84
+timeCreated: 1704747222
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/Editor/Setup/FFmpegInstaller.cs
+  uploadId: 780841

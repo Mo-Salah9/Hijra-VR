@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efaa3564f3a9ee64d9752b5f1bdcbcdf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Animations/UI/Button.controller
+  uploadId: 780841

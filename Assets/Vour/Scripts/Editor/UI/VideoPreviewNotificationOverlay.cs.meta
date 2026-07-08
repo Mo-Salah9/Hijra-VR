@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 96c9e822b4c14a2aae5dbefa4cfca141
+timeCreated: 1735838438
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/Editor/UI/VideoPreviewNotificationOverlay.cs
+  uploadId: 780841

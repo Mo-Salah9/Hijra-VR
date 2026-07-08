@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 115254a844d2af640b88142e4bbca731
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Players/WebXR Player.prefab
+  uploadId: 780841

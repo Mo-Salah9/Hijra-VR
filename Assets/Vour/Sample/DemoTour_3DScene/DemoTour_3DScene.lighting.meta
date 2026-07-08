@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac9386b6ac4722b44a129b88d6da9ab9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Sample/DemoTour_3DScene/DemoTour_3DScene.lighting
+  uploadId: 780841

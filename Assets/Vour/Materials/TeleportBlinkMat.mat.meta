@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3ca7c2595ae4f74a9c1f751b041af20
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Materials/TeleportBlinkMat.mat
+  uploadId: 780841

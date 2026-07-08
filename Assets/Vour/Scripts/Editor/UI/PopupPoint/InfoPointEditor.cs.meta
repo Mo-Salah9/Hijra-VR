@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: de100966d4561ca429a336921afbfac2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/Editor/UI/PopupPoint/InfoPointEditor.cs
+  uploadId: 780841

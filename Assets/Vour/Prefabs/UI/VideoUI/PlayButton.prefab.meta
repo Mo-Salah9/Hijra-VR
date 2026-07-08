@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56d0e8d9172747d4ebf37dbbfdeeb34d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/UI/VideoUI/PlayButton.prefab
+  uploadId: 780841

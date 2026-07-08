@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 222900a719e76c5408712c2820694f64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Players/Desktop Player.prefab
+  uploadId: 780841

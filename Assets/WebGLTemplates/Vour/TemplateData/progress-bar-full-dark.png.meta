@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c15e1e0369bde9143a9f22dda88cdd48
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/WebGLTemplates/Vour/TemplateData/progress-bar-full-dark.png
+  uploadId: 780841

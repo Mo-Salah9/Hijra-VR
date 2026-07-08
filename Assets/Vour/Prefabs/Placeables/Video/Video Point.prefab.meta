@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10cd6972678c47d49841c65f2680fd00
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Placeables/Video/Video Point.prefab
+  uploadId: 780841

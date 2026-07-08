@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5557a09e6db9e34891b102aff2428a5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Fonts/Roboto-Regular SDF.asset
+  uploadId: 780841

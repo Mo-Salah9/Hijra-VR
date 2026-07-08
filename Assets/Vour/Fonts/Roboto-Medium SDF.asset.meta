@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ee2d14f8c2705c41bda0d844714b3ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Fonts/Roboto-Medium SDF.asset
+  uploadId: 780841

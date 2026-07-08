@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a80b98a656504bdda8dfbb947ec197c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: fbd5bd5295374544888910c7e0a7f008, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/UI/Image3D.cs
+  uploadId: 780841

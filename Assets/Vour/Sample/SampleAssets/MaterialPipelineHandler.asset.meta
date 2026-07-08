@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d75eb0a39fadc54a86f6234d3524dbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Sample/SampleAssets/MaterialPipelineHandler.asset
+  uploadId: 780841

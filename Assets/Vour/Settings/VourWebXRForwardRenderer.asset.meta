@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a7227bac23f1844a8e3fe992046e09f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Settings/VourWebXRForwardRenderer.asset
+  uploadId: 780841

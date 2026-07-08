@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0dd1ac92d801dd4196906f75ce699d5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/WebGLTemplates/Vour/TemplateData/progress-bar-full-light.png
+  uploadId: 780841

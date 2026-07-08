@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad53c1e047a2fb745b1c315289eb7d49
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Placeables/TeleportPoint.prefab
+  uploadId: 780841

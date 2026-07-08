@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 51e054dba77540c0bedabf444ba12071
+timeCreated: 1665770792
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/UI/VourTrackedDeviceGraphicRaycaster.cs
+  uploadId: 780841

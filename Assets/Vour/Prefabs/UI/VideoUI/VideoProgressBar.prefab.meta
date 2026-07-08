@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f0324ab700f1e3469e2d5717e2dc4e5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/UI/VideoUI/VideoProgressBar.prefab
+  uploadId: 780841

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b8585bcfaf967f40b4259f49231c1c5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/UI/VideoUI/VideoUI Main.prefab
+  uploadId: 780841

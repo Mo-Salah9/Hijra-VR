@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d0ecf3abac002c45a571cc1f22c1a02
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Prefabs/Locations/Location Manager.prefab
+  uploadId: 780841

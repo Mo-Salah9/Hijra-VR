@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ff7f7b02bcacb54ebe4b7dc57bc7cc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scripts/Location/EmptyLocation.cs
+  uploadId: 780841

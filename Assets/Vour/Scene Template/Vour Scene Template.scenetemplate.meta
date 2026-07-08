@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3767785210aa59b439bb068a2c9e9b89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/Vour/Scene Template/Vour Scene Template.scenetemplate
+  uploadId: 780841

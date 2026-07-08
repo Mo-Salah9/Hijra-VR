@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d2f96ba31f766844809592146fdfe50
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 4.0.0
+  assetPath: Assets/WebGLTemplates/Vour/TemplateData/fullscreen-button.png
+  uploadId: 780841
