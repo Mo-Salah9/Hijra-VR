@@ -178,7 +178,7 @@ PrefabInstance:
     - target: {fileID: 1893248479425480825, guid: 11eded50330b40e41b58daa881732394, type: 3}
       propertyPath: video
       value: 
-      objectReference: {fileID: 32900000, guid: fc75b333fc603e845ae2b9481e8a4ab5, type: 3}
+      objectReference: {fileID: 32900000, guid: 2f516607fedc2f7469b3a4c931b24189, type: 3}
     - target: {fileID: 1893248479425480825, guid: 11eded50330b40e41b58daa881732394, type: 3}
       propertyPath: loopVideo
       value: 0
