@@ -63,8 +63,7 @@ sysinfo.txt
 *.unitypackage
 *.app
 *.zip
-*.mp4
-*.mov
+*.tga
 # Crashlytics generated file
 crashlytics-build.properties
 
