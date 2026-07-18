@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48db298738332b8468e86b4d8a2dfaa9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299404
+  packageName: RPG Camel Fantasy
+  packageVersion: 1.0
+  assetPath: Assets/Camel/Prefabs/Male_Body.prefab
+  uploadId: 700522

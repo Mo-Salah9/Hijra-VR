@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6057180c3acf83942b72e760120ce15e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299404
+  packageName: RPG Camel Fantasy
+  packageVersion: 1.0
+  assetPath: Assets/Camel/Prefabs/Camel.prefab
+  uploadId: 700522

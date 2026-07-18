@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 550450c1e0c7946478ddf08d92f9589b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299404
+  packageName: RPG Camel Fantasy
+  packageVersion: 1.0
+  assetPath: Assets/Camel/Animations/Camel/AnimControler_Camel.controller
+  uploadId: 700522

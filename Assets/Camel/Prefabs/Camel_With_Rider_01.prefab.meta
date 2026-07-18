@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e89d9335ff02644ebcefa496c31ecd7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299404
+  packageName: RPG Camel Fantasy
+  packageVersion: 1.0
+  assetPath: Assets/Camel/Prefabs/Camel_With_Rider_01.prefab
+  uploadId: 700522

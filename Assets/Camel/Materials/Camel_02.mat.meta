@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fa5bfbc9b943a540a15ec6ab4f554ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299404
+  packageName: RPG Camel Fantasy
+  packageVersion: 1.0
+  assetPath: Assets/Camel/Materials/Camel_02.mat
+  uploadId: 700522

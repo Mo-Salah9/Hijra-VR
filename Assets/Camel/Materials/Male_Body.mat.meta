@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bf5c0c287fe9c54d9205df5b13b373b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299404
+  packageName: RPG Camel Fantasy
+  packageVersion: 1.0
+  assetPath: Assets/Camel/Materials/Male_Body.mat
+  uploadId: 700522
