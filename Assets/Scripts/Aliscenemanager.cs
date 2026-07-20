@@ -42,7 +42,8 @@ public class Aliscenemanager : MonoBehaviour
         AudioManager.Instance.Play("5");
         yield return new WaitForSeconds(24);
         AudioManager.Instance.Play("4");
-
+        yield return new WaitForSeconds(17);
+        SceneManager.LoadScene(2);
 
     }
 }

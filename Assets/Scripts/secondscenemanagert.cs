@@ -11,7 +11,7 @@ public class secondscenemanagert : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        StartCoroutine("ppw");
+        //StartCoroutine("ppw");
     }
 
     // Update is called once per frame
@@ -41,8 +41,8 @@ public class secondscenemanagert : MonoBehaviour
     }
     private IEnumerator ppw()
     {
-        yield return new WaitForSeconds(131f);
-        SceneManager.LoadScene(2);
+        //yield return new WaitForSeconds(131f);
+        //SceneManager.LoadScene(2);
         yield return null;
     }
 }
