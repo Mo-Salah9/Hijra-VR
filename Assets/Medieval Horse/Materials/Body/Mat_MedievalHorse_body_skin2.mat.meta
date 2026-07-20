@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da7a3922703db4b4393482f4e8622f0a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242647
+  packageName: Classic Horse 2.0 - Medieval Type
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Horse/Materials/Body/Mat_MedievalHorse_body_skin2.mat
+  uploadId: 559968
