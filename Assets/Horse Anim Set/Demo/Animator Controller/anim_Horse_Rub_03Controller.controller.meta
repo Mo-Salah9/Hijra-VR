@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c56c9971f80654e4294ba12f8aaf4fb8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_Horse_Rub_03Controller.controller
+  uploadId: 863396

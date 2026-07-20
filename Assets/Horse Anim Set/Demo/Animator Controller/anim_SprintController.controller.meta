@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1421aca6a0076d84c829dc69f19749ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_SprintController.controller
+  uploadId: 863396

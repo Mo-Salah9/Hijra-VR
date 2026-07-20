@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b702db5f6512a534099481925dc14e56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_Horse_LagKickController.controller
+  uploadId: 863396

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a59b5850e1a96248bf6540cc42627e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_Horse_Start_01Controller.controller
+  uploadId: 863396

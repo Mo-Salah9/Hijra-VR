@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c31a783d8adadc343907e6a75637f200
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_Walk_Strafe_LeftController.controller
+  uploadId: 863396

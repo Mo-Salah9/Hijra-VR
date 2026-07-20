@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11ba252a6e1e8d44cb3ad947e006e224
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_Horse_Attack_02Controller.controller
+  uploadId: 863396

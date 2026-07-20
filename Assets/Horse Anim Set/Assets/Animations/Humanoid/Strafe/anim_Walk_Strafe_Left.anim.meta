@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42ebcd8ade1302b4caf5d23a16c37790
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Assets/Animations/Humanoid/Strafe/anim_Walk_Strafe_Left.anim
+  uploadId: 863396

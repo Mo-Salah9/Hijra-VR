@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d77d4f5104d501f468891dd160b34514
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_IdleController.controller
+  uploadId: 863396

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82e236add13f91045b5940ebb931cae9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_Canter_LeftController.controller
+  uploadId: 863396

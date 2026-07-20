@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c918709e14d54784b8165f42f258ceef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Assets/Animations/Humanoid/Attack/anim_Horse_Swing.anim
+  uploadId: 863396

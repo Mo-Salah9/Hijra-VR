@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d803f7365de7a0c4a96ffd700ef44585
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Demo/Animator Controller/anim_Exit_LeftController.controller
+  uploadId: 863396

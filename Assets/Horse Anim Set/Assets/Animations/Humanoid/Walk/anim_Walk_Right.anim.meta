@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dda4a7f46bb266a4fa61cf2deac03fe5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308646
+  packageName: Horse Anim Set
+  packageVersion: 1.0
+  assetPath: Assets/Horse Anim Set/Assets/Animations/Humanoid/Walk/anim_Walk_Right.anim
+  uploadId: 863396
