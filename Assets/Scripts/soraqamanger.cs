@@ -33,6 +33,8 @@ public class soraqamanger : MonoBehaviour
         yield return new WaitForSeconds(5f);
         animator1.SetBool("standup", true);
         animator2.SetBool("standup", true);
+        yield return new WaitForSeconds(0.5f);
+
         animator2.gameObject.SetActive(false);
         idle2.gameObject.SetActive(true);
         yield return new WaitForSeconds(3f);
@@ -41,10 +43,16 @@ public class soraqamanger : MonoBehaviour
 
         yield return new WaitForSeconds(4f);
         animator1.SetBool("standagain", true);
+        yield return new WaitForSeconds(0.5f);
+
         idle2.gameObject.SetActive(false);
+
         idle3.gameObject.SetActive(true);
         yield return new WaitForSeconds(3f);
         AudioManager.Instance.PlayAlone("1");
+        yield return new WaitForSeconds(30f);
+        animator1.SetBool("getback", true);
+        idle3.GetComponent<Animator>().SetBool("getback", true);
 
         yield return null;
     }

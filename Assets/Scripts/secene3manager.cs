@@ -39,6 +39,8 @@ public class secene3manager : MonoBehaviour
         animator2.SetBool("go", true);
         yield return new WaitForSeconds(7);
         horse.SetActive(false);
+        yield return new WaitForSeconds(10);
+        SceneManager.LoadScene(3);
         yield return null;
     }
 }
