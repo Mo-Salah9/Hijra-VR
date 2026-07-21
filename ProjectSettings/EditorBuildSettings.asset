@@ -5,18 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/hijra S1.unity
     guid: c0abe92a4ef4ebc4a8e248053ad00c8e
-  - enabled: 1
+  - enabled: 0
     path: Assets/hijra scene.unity
     guid: ce8a8d550169f7146a89b42fad9cb3b7
-  - enabled: 1
+  - enabled: 0
     path: Assets/hijra S1 1.unity
     guid: 9510fe39b5a5d4040a01d09c457e8911
   - enabled: 1
     path: Assets/hijra S1 2.unity
     guid: d6168a7dd77b1a64abb05ec4f6dff597
+  - enabled: 0
+    path: Assets/lasts.unity
+    guid: 48115124023e8334e9da65e8dd156e77
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}

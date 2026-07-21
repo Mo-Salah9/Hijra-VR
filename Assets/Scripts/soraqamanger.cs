@@ -53,7 +53,8 @@ public class soraqamanger : MonoBehaviour
         yield return new WaitForSeconds(30f);
         animator1.SetBool("getback", true);
         idle3.GetComponent<Animator>().SetBool("getback", true);
-
+        yield return new WaitForSeconds(17f);
+        SceneManager.LoadScene(4);
         yield return null;
     }
 }

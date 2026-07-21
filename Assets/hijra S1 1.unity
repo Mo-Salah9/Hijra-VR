@@ -206,7 +206,7 @@ Transform:
   m_GameObject: {fileID: 79193847}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -769, y: -31, z: -1163}
+  m_LocalPosition: {x: -769, y: -13, z: -1163}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -514,6 +514,11 @@ PrefabInstance:
 --- !u!4 &414522638 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1250912934920214561, guid: d5f283060c7660745a526e97866a2e9d, type: 3}
+  m_PrefabInstance: {fileID: 1170978500}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &414522639 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1333876798371847464, guid: d5f283060c7660745a526e97866a2e9d, type: 3}
   m_PrefabInstance: {fileID: 1170978500}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &591928737
@@ -2563,7 +2568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   animator1: {fileID: 1099460566}
-  animator2: {fileID: 0}
+  animator2: {fileID: 414522639}
   horse: {fileID: 1998086966}
 --- !u!1001 &2068517557
 PrefabInstance:
