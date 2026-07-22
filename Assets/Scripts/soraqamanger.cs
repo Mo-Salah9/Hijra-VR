@@ -10,7 +10,7 @@ using UnityEngine.Video;
 public class soraqamanger : MonoBehaviour
 {
     public Animator animator1;
-    public Animator animator2;
+    public Animator animator2 , animator3,animator4;
     public GameObject hole1, hole2 , hole3;
     //public GameObject idle2,idle3;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -55,10 +55,12 @@ public class soraqamanger : MonoBehaviour
         //idle2.gameObject.SetActive(false);
 
         //idle3.gameObject.SetActive(true);
-        yield return new WaitForSeconds(3f);
+        /*ield return new WaitForSeconds(3f);*/
        
-        yield return new WaitForSeconds(30f);
-        animator1.SetBool("getback", true);
+        yield return new WaitForSeconds(13.5f);
+        animator3.SetBool("getback", true);
+        animator4.SetBool("getback", true);
+
         //idle3.GetComponent<Animator>().SetBool("getback", true);
         yield return new WaitForSeconds(17f);
         SceneManager.LoadScene(4);

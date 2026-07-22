@@ -19318,6 +19318,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   animator1: {fileID: 9175620540789396392}
   animator2: {fileID: 1898497275329598700}
+  animator3: {fileID: 409307834}
+  animator4: {fileID: 1331125459}
   hole1: {fileID: 6042584132182501444}
   hole2: {fileID: 6736088}
   hole3: {fileID: 2089196546}
@@ -20044,7 +20046,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2089196548}
-  - component: {fileID: 2089196547}
+  - component: {fileID: 2089196549}
   m_Layer: 0
   m_Name: horser with  rider (2)
   m_TagString: Untagged
@@ -20052,28 +20054,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
---- !u!95 &2089196547
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2089196546}
-  m_Enabled: 0
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1007829599624fd49a8e20362b6c1769, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!4 &2089196548
 Transform:
   m_ObjectHideFlags: 0
@@ -20091,6 +20071,28 @@ Transform:
   - {fileID: 1331125458}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!95 &2089196549
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089196546}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9f6f2e1cab862c5488a29bf9ca9c8e3e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2101085191
 GameObject:
   m_ObjectHideFlags: 0
@@ -60899,7 +60901,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 8e2ac9d9876ea624f93b24d11036472f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
   m_AnimatePhysics: 0
