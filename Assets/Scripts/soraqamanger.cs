@@ -12,6 +12,7 @@ public class soraqamanger : MonoBehaviour
     public Animator animator1;
     public Animator animator2 , animator3,animator4;
     public GameObject hole1, hole2 , hole3;
+    
     //public GameObject idle2,idle3;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -62,7 +63,7 @@ public class soraqamanger : MonoBehaviour
         animator4.SetBool("getback", true);
 
         //idle3.GetComponent<Animator>().SetBool("getback", true);
-        yield return new WaitForSeconds(17f);
+        yield return new WaitForSeconds(25f);
         SceneManager.LoadScene(4);
         yield return null;
     }
