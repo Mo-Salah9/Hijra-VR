@@ -12,6 +12,7 @@ public class lastscenemanger : MonoBehaviour
     public AudioSource audioSource1;
     public AudioSource audioSource2;
     public Animator animator1;
+    public Animator animator2;
     public Canvas canvas;
     void Start()
     {
@@ -33,6 +34,8 @@ public class lastscenemanger : MonoBehaviour
 
         yield return new WaitForSeconds(39.01f);
         animator1.SetBool("stop", true);
+        animator2.SetBool("stop", true);
+
         canvas.gameObject.SetActive(true);
         yield return null;
     }
