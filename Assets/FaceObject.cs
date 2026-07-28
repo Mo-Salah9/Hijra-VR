@@ -1,45 +1,42 @@
-using DG.Tweening;
 using UnityEngine;
-using UnityEngine.Assertions;
 using UnityEngine.XR.Interaction.Toolkit;
+using UnityEngine.Assertions;
+//using Unity.VisualScripting;
 
 public class FaceObject : MonoBehaviour
 {
-    [Header("Assign the Main Camera (HMD)")]
-    public Transform xrCamera;
-
-    [Header("Enable only when you want to lock the player's facing direction")]
-    public bool compensateRotation = true;
-
-    private float lastRigYaw;
-
-    void LateUpdate()
+    public Transform head; // camera
+    public Transform origin; // xr rig
+    public Transform startTransform;
+    private Animator animator;
+    private void Start()
     {
-        if (!compensateRotation || xrCamera == null)
-            return;
-
-        float currentRigYaw = transform.eulerAngles.y;
-
-        // How much the Timeline rotated the rig this frame
-        float rigDelta = Mathf.DeltaAngle(lastRigYaw, currentRigYaw);
-
-        if (Mathf.Abs(rigDelta) > 0.01f)
-        {
-            // Remove the headset's local yaw offset
-            float cameraYaw = xrCamera.localEulerAngles.y;
-
-            transform.Rotate(0f, -cameraYaw, 0f, Space.Self);
-        }
-
-        lastRigYaw = transform.eulerAngles.y;
+        animator = GetComponent<Animator>();
+        animator.enabled = false;
+        Invoke(nameof(GoToStartView), 0.01f); // startTarget
     }
 
-    public void RecenterFacing()
+    public void GoToStartView()
     {
-        if (xrCamera == null)
-            return;
+        GoToSpecficView(startTransform);
+    }
+    public void GoToStartViewDelayed()
+    {
+        Invoke(nameof(GoToStartView),2);
+    }
+    private void GoToSpecficView(Transform viewTransfrom)
+    {
+        animator.enabled=true;  
+        Vector3 offset = head.position - origin.position;
+        //offset.y = 0;
+        origin.position = viewTransfrom.position - offset;
 
-        transform.Rotate(0f, -xrCamera.localEulerAngles.y, (float)Space.Self);
+        Vector3 targetFwd = viewTransfrom.forward;
+        Vector3 cameraFwd = head.forward;
+
+        float angle = Vector3.SignedAngle(cameraFwd, targetFwd, Vector3.up);
+
+        origin.RotateAround(head.position, Vector3.up, angle);
     }
 
 }

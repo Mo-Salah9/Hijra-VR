@@ -438,6 +438,37 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1730818879}
   m_SourcePrefab: {fileID: 100100000, guid: 1437b34fb816ebd47b3753de37702dc0, type: 3}
+--- !u!1 &409012656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 409012657}
+  m_Layer: 0
+  m_Name: start
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &409012657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409012656}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.91068375, z: -0, w: -0.4131043}
+  m_LocalPosition: {x: 81.2, y: 216.1, z: 125.600006}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 852524738}
+  m_LocalEulerAnglesHint: {x: 0, y: -228.8, z: 0}
 --- !u!1001 &591928737
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -826,6 +857,53 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: abf23f2ad315dd640926154041f96655, type: 3}
+--- !u!1 &852524737
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 852524738}
+  - component: {fileID: 852524739}
+  m_Layer: 0
+  m_Name: VR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &852524738
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 852524737}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1262670661787095844}
+  - {fileID: 409012657}
+  m_Father: {fileID: 1222078994353498645}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &852524739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 852524737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cae975265369797419d025a6dcabc510, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HMDMountChecker
+  faceObject: {fileID: 9062032031975296065}
 --- !u!1001 &956703673
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7575,6 +7653,7 @@ GameObject:
   - component: {fileID: 3504135229013744932}
   - component: {fileID: 9062032031975296063}
   - component: {fileID: 9062032031975296064}
+  - component: {fileID: 9062032031975296065}
   m_Layer: 2
   m_Name: XR Origin Hands (XR Rig)
   m_TagString: Untagged
@@ -8599,7 +8678,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1262670661787095844}
+  - {fileID: 852524738}
   - {fileID: 3596609922793464409}
   - {fileID: 4023124286148965323}
   - {fileID: 315352746394429043}
@@ -8885,15 +8964,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 997917743594552115}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.91068375, z: 0, w: -0.4131043}
-  m_LocalPosition: {x: 81.2, y: 216.1, z: 125.6}
+  m_LocalRotation: {x: -0, y: -0.91068375, z: -0, w: -0.4131043}
+  m_LocalPosition: {x: 81.2, y: 216.1, z: 125.600006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 4691566277265074985}
   - {fileID: 886228432517908626}
   - {fileID: 8457414821205744278}
-  m_Father: {fileID: 1222078994353498645}
+  m_Father: {fileID: 852524738}
   m_LocalEulerAnglesHint: {x: 0, y: -228.8, z: 0}
 --- !u!4 &1267340048406474083
 Transform:
@@ -42743,7 +42822,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 997917743594552115}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 0966237d586da1a49a054712bb3ba391, type: 2}
   m_CullingMode: 0
@@ -42757,6 +42836,21 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &9062032031975296065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 997917743594552115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ecdfeca0ed27974ca1392526e7973f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FaceObject
+  head: {fileID: 350070822534068850}
+  origin: {fileID: 1262670661787095844}
+  startTransform: {fileID: 409012657}
 --- !u!1 &9078872493524594735
 GameObject:
   m_ObjectHideFlags: 0

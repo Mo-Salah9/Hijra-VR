@@ -14590,6 +14590,51 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!1 &1579930290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1579930291}
+  - component: {fileID: 1579930292}
+  m_Layer: 0
+  m_Name: parent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1579930291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579930290}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.02637196, y: 0.75066406, z: -0.03001856, w: -0.65947473}
+  m_LocalPosition: {x: -41.959, y: 36.1, z: -438.17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 4.58, y: -1177.4, z: 0}
+--- !u!114 &1579930292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579930290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cae975265369797419d025a6dcabc510, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HMDMountChecker
+  faceObject: {fileID: 9062032031975296065}
 --- !u!1 &1584264946
 GameObject:
   m_ObjectHideFlags: 0
@@ -20133,6 +20178,37 @@ Transform:
   - {fileID: 750121665}
   m_Father: {fileID: 1990224592}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2101254337
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2101254338}
+  m_Layer: 0
+  m_Name: 'start]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2101254338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2101254337}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.02637196, y: 0.75066406, z: -0.03001856, w: -0.65947473}
+  m_LocalPosition: {x: -41.959, y: 36.1, z: -438.17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 4.58, y: -1177.4, z: 0}
 --- !u!1 &2102445702
 GameObject:
   m_ObjectHideFlags: 0
@@ -25031,6 +25107,7 @@ GameObject:
   - component: {fileID: 3504135229013744932}
   - component: {fileID: 9062032031975296063}
   - component: {fileID: 9062032031975296064}
+  - component: {fileID: 9062032031975296065}
   m_Layer: 2
   m_Name: XR Origin Hands (XR Rig)
   m_TagString: Untagged
@@ -60666,6 +60743,21 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &9062032031975296065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 997917743594552115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ecdfeca0ed27974ca1392526e7973f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FaceObject
+  head: {fileID: 350070822534068850}
+  origin: {fileID: 1262670661787095844}
+  startTransform: {fileID: 2101254338}
 --- !u!1 &9063222022046176697
 GameObject:
   m_ObjectHideFlags: 0
@@ -61192,7 +61284,6 @@ SceneRoots:
   - {fileID: 1035499522}
   - {fileID: 79193850}
   - {fileID: 2018273169}
-  - {fileID: 1262670661787095844}
   - {fileID: 956703673}
   - {fileID: 291135910}
   - {fileID: 1105483866}
@@ -61210,3 +61301,6 @@ SceneRoots:
   - {fileID: 2761413128632911595}
   - {fileID: 6736090}
   - {fileID: 2089196548}
+  - {fileID: 1579930291}
+  - {fileID: 1262670661787095844}
+  - {fileID: 2101254338}
